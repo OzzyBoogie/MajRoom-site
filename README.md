@@ -8,6 +8,22 @@ MajRoom is a **Rust backend + native apps** Riichi Mahjong scoring project. The 
 - Wait and shanten calculation
 - Native integration: iOS already wired to the Rust library; Android is currently a base UI skeleton
 
+## Privacy Policy
+
+This app does not collect, store, or share any personal data.
+
+### Information Collection
+No personal information is collected by this app.
+
+### Data Usage
+Since no data is collected, no data is used.
+
+### Third-Party Services
+This app does not use any third-party services that collect user data.
+
+### Contact
+If you have any questions about this privacy policy, please contact us via the GitHub repository.
+
 ## Project Structure
 
 - `Rust/` Rust scoring core and CLI
