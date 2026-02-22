@@ -3,7 +3,7 @@
 MajRoom is a **Rust backend + native apps** Riichi Mahjong scoring project. The core scoring engine is implemented in Rust and exposed to native platforms via UniFFI; iOS is built with SwiftUI and Android uses Jetpack Compose.
 
 ## Contact
-If you have any technial issues, please reach out to dev.oz@icloud.com
+If you have any technial issues, please reach out to [dev.oz@icloud.com](mailto:dev.oz@icloud.com)
 
 ## Features
 
